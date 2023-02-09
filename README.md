@@ -35,5 +35,5 @@
 <a href="https://www.kaggle.com/https://www.kaggle.com/o0abdalrahman0o" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-----
+<br/>
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
