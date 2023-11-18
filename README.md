@@ -5,9 +5,7 @@
   
 
 - 🌱 I’m currently taking Machine Learning and Deep Learning specializations by DeepLearning.AI and Stanford University  
-  
 
-- ❓ Ask me about anything related to data Science  
   
 <h1>My skills</h1>
 <div align="center">  
@@ -30,7 +28,7 @@
 <a href="https://github.com/https://github.com/abdalrahman1510" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdalrahman-mohammad-a47a52253" target="_blank">
+<a href="www.linkedin.com/in/abdalrahman-mohamad-a47a52253" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/https://www.kaggle.com/o0abdalrahman0o" target="_blank">
